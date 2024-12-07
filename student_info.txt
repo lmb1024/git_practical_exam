@@ -1,2 +1,3 @@
 Name: Lewis M. Bangcawayan
 Exam Date: December 07, 2024
+Favorite Git Command: git pull
